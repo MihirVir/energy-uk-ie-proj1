@@ -1,8 +1,10 @@
 import React from 'react'
-
+import EventPage from './page/EventPage'
 const App = () => {
   return (
-    <div className=''>App</div>
+    <>
+      <EventPage />
+    </>
   )
 }
 
